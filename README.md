@@ -80,6 +80,11 @@ I also made several projects such as a dynamic music engine in Unity to add soun
 
 ---
 
+## Current projects
+I am currently taking a professional Unreal Engine 4 course and developing a 3D videogame on it. I am also planning to do small games for Android and IOs.
+
+---
+
 ## Contact me
 
 [GitHub](https://github.com/jorgerodrigar)   
