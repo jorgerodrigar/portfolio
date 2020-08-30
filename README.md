@@ -14,8 +14,8 @@ This project consists on fractal terrains generation and their implementation vi
 I made this project with two classmates, and I contributed programming the OpenGL and Vulkan versions of the application, just as the suitable coexistence between them. I also worked on programming the shaders, the physics and introducing the 3D models.     
 This project has been programmed in C++ using Visual Studio.     
 <p align="center">
-<img width="175" height="150" src="images/tfg1.png">
-<img width="274" height="150" src="images/tfg2.png">
+<img width="205" height="176" src="images/tfg1.png">
+<img width="320" height="176" src="images/tfg2.png">
 </p>   
 
 You can find the TFG project [here](https://github.com/jorgerodrigar/TFG-Repo).
