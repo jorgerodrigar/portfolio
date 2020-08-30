@@ -1,3 +1,5 @@
+github:
+  is_project_page: false
 theme: jekyll-theme-slate
 title: Jorge Rodríguez García
 description: Hello! I'm Jorge and this is my portfolio. Feel free to have a look at my work.
