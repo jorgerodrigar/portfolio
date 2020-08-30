@@ -22,30 +22,29 @@ Holy Spoons is a first person shooter videogame in which the player has to survi
 The main point of this project was to create a videogame engine which allowed to develop any type of game on it without changing its architecture. It was developed by 6 people and uses functionalities of several libraries to work properly: Ogre3D for the graphics, Nvidia Physx for the physics and irrKlang for the 3D positional sound. It is all mixed on an interface based on components, making the game development similar to Unity’s workflow. It also has a data-oriented structure, which means that the game scenes and levels can be configured from external json files and don’t need to introduce new code.     
 I contributed implementing the sound engine, the data-oriented structure, programming the components-based architecture of the engine and the gameplay of the game, such as designing its gameflow and similar issues.     
 This project has been programmed in C++ using Visual Studio.     
-<img align="left" width="281" height="399" src="images/holyspoons1.png">
-<img align="center" width="281" height="399" src="images/holyspoons2.png">
-<img align="right" width="281" height="399" src="images/holyspoons3.png">     
+<img width="300" height="147" src="images/holyspoons1.png">
+<img width="300" height="147" src="images/holyspoons2.png">
+<img width="300" height="147" src="images/holyspoons3.png">     
 You can find the Holy Spoons project [here](https://dimateos.github.io/Holy_Spoons/).
 
 ### Moonace - 2018
 Moonace is a 2D graphic adventure videogame based on a cyberpunk future in which the player is a homicide detective and must resolve several crimes.     
 This project was made by 8 people and programmed in C++ using a structure based on components as Unity does. SDL was used as graphic library, and it also has a data-oriented structure, which means that the game scenes and levels can be configured from external json files and don’t need to introduce new code.     
 I contributed programming the components-based architecture, gameplay of the game like the point and click movement mechanic using the A* algorithm, the sound engine and several art assets.     
-<img align="left" width="281" height="399" src="images/moonace1.png">
-<img align="right" width="281" height="399" src="images/moonace2.png">     
+<img width="427" height="241" src="images/moonace1.png">
+<img width="427" height="241" src="images/moonace2.png">     
 You can find the Moonace project [here](https://bitlegion.itch.io/moonace).
 
 ### Donkey Kong clone - 2017
 It was developed by two people using Phaser and JavaScript, and it’s a clone of the classic videogame Donkey Kong.     
-I contributed in the programming and art assets inclusion.     
-<img align="left" width="281" height="399" src="images/FotoGraduacion.jpg">     
+I contributed in the programming and art assets inclusion.        
 You can play it from your browser [here](https://gonzsa04.github.io/DonkeyKong/PVLI/src/) (Preferably Mozilla Firefox).
 
 ### Katharia - 2017
 Katharia is a 2D adventure game in which the player is a hero that must save an ancient kingdom called Katharia from an evil governor. It has platforming and combat mechanics similar to classic beat ‘em up games.     
 It was developed in C# using Unity by four people and I contributed programming its gameplay mechanics, some boss fights, designing levels and creating art assets.
-<img align="left" width="281" height="399" src="images/katharia1.png">
-<img align="right" width="281" height="399" src="images/katharia2.png">     
+<img width="457" height="241" src="images/katharia1.png">
+<img width="350" height="241" src="images/katharia2.png">     
 
 ### PS4 projects - 2019
 I made some projects for PS4 using its SDKs and programming in C++. I also cloned the classic videogame West Bank and made it multiplatform for PS4 and PC, stablishing an interface-based architecture, in which the gameplay code of the game worked identically for both platforms.     
