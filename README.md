@@ -14,7 +14,7 @@ This project consists on fractal terrains generation and their implementation vi
 I made this project with two classmates, and I contributed programming the OpenGL and Vulkan versions of the application, just as the suitable coexistence between them. I also worked on programming the shaders, the physics and introducing the 3D models.     
 This project has been programmed in C++ using Visual Studio.     
 <img align="left" width="281" height="399" src="images/tfg1.png">
-<img align="right" width="281" height="399" src="images/tfg2.png">
+<img align="right" width="281" height="399" src="images/tfg2.png">     
 You can find the TFG project [here](https://github.com/jorgerodrigar/TFG-Repo).
 
 ### Holy Spoons - 2019
@@ -24,7 +24,7 @@ I contributed implementing the sound engine, the data-oriented structure, progra
 This project has been programmed in C++ using Visual Studio.     
 <img align="left" width="281" height="399" src="images/holyspoons1.png">
 <img align="center" width="281" height="399" src="images/holyspoons2.png">
-<img align="right" width="281" height="399" src="images/holyspoons3.png">
+<img align="right" width="281" height="399" src="images/holyspoons3.png">     
 You can find the Holy Spoons project [here](https://dimateos.github.io/Holy_Spoons/).
 
 ### Moonace - 2018
@@ -32,20 +32,20 @@ Moonace is a 2D graphic adventure videogame based on a cyberpunk future in which
 This project was made by 8 people and programmed in C++ using a structure based on components as Unity does. SDL was used as graphic library, and it also has a data-oriented structure, which means that the game scenes and levels can be configured from external json files and don’t need to introduce new code.     
 I contributed programming the components-based architecture, gameplay of the game like the point and click movement mechanic using the A* algorithm, the sound engine and several art assets.     
 <img align="left" width="281" height="399" src="images/moonace1.png">
-<img align="right" width="281" height="399" src="images/moonace2.png">
+<img align="right" width="281" height="399" src="images/moonace2.png">     
 You can find the Moonace project [here](https://bitlegion.itch.io/moonace).
 
 ### Donkey Kong clone - 2017
 It was developed by two people using Phaser and JavaScript, and it’s a clone of the classic videogame Donkey Kong.     
 I contributed in the programming and art assets inclusion.     
-<img align="left" width="281" height="399" src="images/FotoGraduacion.jpg">
+<img align="left" width="281" height="399" src="images/FotoGraduacion.jpg">     
 You can play it from your browser [here](https://gonzsa04.github.io/DonkeyKong/PVLI/src/) (Preferably Mozilla Firefox).
 
 ### Katharia - 2017
 Katharia is a 2D adventure game in which the player is a hero that must save an ancient kingdom called Katharia from an evil governor. It has platforming and combat mechanics similar to classic beat ‘em up games.     
 It was developed in C# using Unity by four people and I contributed programming its gameplay mechanics, some boss fights, designing levels and creating art assets.
 <img align="left" width="281" height="399" src="images/katharia1.png">
-<img align="right" width="281" height="399" src="images/katharia2.png">
+<img align="right" width="281" height="399" src="images/katharia2.png">     
 
 ### PS4 projects - 2019
 I made some projects for PS4 using its SDKs and programming in C++. I also cloned the classic videogame West Bank and made it multiplatform for PS4 and PC, stablishing an interface-based architecture, in which the gameplay code of the game worked identically for both platforms.     
@@ -69,7 +69,7 @@ You can find them [here](https://github.com/jorgerodrigar/IA).
 
 ### Other projects
 I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.
-<img align="center" width="281" height="399" src="images/FotoGraduacion.jpg">
+<img align="center" width="281" height="399" src="images/FotoGraduacion.jpg">     
 
 ---
 
