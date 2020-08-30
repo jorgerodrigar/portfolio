@@ -1,4 +1,4 @@
-<img align="left" width="281" height="399" src="images/FotoGraduacion.jpg">
+<img align="left" width="162" height="230" src="images/FotoGraduacion.jpg">
 
 ## About me
 
@@ -13,8 +13,8 @@ I’ll leave you here some of the projects I worked on. I usually lean on GitHub
 This project consists on fractal terrains generation and their implementation via OpenGL and Vulkan graphic APIs. It also combines two different rendering methods, the usual one to visualize 3D models and meshes, and the Ray Marching method to recreate de fractal terrains, both of them developed by render shaders. Mixing these methods and adding some physics, it results on a scene with an object controlled by the player that can explore several terrains created through 3D fractals.     
 I made this project with two classmates, and I contributed programming the OpenGL and Vulkan versions of the application, just as the suitable coexistence between them. I also worked on programming the shaders, the physics and introducing the 3D models.     
 This project has been programmed in C++ using Visual Studio.     
-<img align="left" width="281" height="399" src="images/tfg1.png">
-<img align="right" width="281" height="399" src="images/tfg2.png">     
+<img width="280" height="241" src="images/tfg1.png">
+<img width="438" height="241" src="images/tfg2.png">     
 You can find the TFG project [here](https://github.com/jorgerodrigar/TFG-Repo).
 
 ### Holy Spoons - 2019
