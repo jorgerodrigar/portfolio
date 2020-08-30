@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" src="images/FotoGraduacion.jpg">
+<img align="left" width="563" height="798" src="images/FotoGraduacion.jpg">
 
 ## About me
 
