@@ -38,7 +38,7 @@ You can find the Moonace project [here](https://bitlegion.itch.io/moonace).
 ### Donkey Kong clone - 2017
 It was developed by two people using Phaser and JavaScript, and it’s a clone of the classic videogame Donkey Kong.     
 I contributed in the programming and art assets inclusion.        
-<img align="center" width="457" height="241" src="images/donkeykong.png">
+<img align="center" width="249" height="250" src="images/donkeykong.png">     
 You can play it from your browser [here](https://gonzsa04.github.io/DonkeyKong/PVLI/src/) (Preferably Mozilla Firefox).
 
 ### Katharia - 2017
@@ -68,7 +68,7 @@ I made several AI projects with C# in Unity and using its navigation meshes, pat
 You can find them [here](https://github.com/jorgerodrigar/IA).
 
 ### Other projects
-I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.
+I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.     
 <img align="center" width="326" height="241" src="images/pacman.png">     
 
 ---
