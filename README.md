@@ -38,11 +38,12 @@ You can find the Moonace project [here](https://bitlegion.itch.io/moonace).
 ### Donkey Kong clone - 2017
 It was developed by two people using Phaser and JavaScript, and it’s a clone of the classic videogame Donkey Kong.     
 I contributed in the programming and art assets inclusion.        
+<img align="center" width="457" height="241" src="images/donkeykong.png">
 You can play it from your browser [here](https://gonzsa04.github.io/DonkeyKong/PVLI/src/) (Preferably Mozilla Firefox).
 
 ### Katharia - 2017
 Katharia is a 2D adventure game in which the player is a hero that must save an ancient kingdom called Katharia from an evil governor. It has platforming and combat mechanics similar to classic beat ‘em up games.     
-It was developed in C# using Unity by four people and I contributed programming its gameplay mechanics, some boss fights, designing levels and creating art assets.
+It was developed in C# using Unity by four people and I contributed programming its gameplay mechanics, some boss fights, designing levels and creating art assets.     
 <img width="457" height="241" src="images/katharia1.png">
 <img width="350" height="241" src="images/katharia2.png">     
 
