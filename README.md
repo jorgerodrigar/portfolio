@@ -14,8 +14,8 @@ This project consists on fractal terrains generation and their implementation vi
 I made this project with two classmates, and I contributed programming the OpenGL and Vulkan versions of the application, just as the suitable coexistence between them. I also worked on programming the shaders, the physics and introducing the 3D models.     
 This project has been programmed in C++ using Visual Studio.     
 <p align="center">
-<img width="280" height="241" src="images/tfg1.png">
-<img width="438" height="241" src="images/tfg2.png">
+<img width="140" height="120" src="images/tfg1.png">
+<img width="219" height="120" src="images/tfg2.png">
 </p>   
 
 You can find the TFG project [here](https://github.com/jorgerodrigar/TFG-Repo).
@@ -48,7 +48,7 @@ You can find the Moonace project [here](https://bitlegion.itch.io/moonace).
 It was developed by two people using Phaser and JavaScript, and it’s a clone of the classic videogame Donkey Kong.     
 I contributed in the programming and art assets inclusion.       
 <p align="center">
-<img align="center" width="249" height="250" src="images/donkeykong.png">     
+<img width="249" height="250" src="images/donkeykong.png">     
 </p>     
 
 You can play it from your browser [here](https://gonzsa04.github.io/DonkeyKong/PVLI/src/) (Preferably Mozilla Firefox).
@@ -58,7 +58,6 @@ Katharia is a 2D adventure game in which the player is a hero that must save an 
 It was developed in C# using Unity by four people and I contributed programming its gameplay mechanics, some boss fights, designing levels and creating art assets.     
 <p align="center">
 <img width="457" height="241" src="images/katharia1.png">
-<img width="350" height="241" src="images/katharia2.png">
 </p>     
 
 ### PS4 projects - 2019
@@ -82,10 +81,7 @@ I made several AI projects with C# in Unity and using its navigation meshes, pat
 You can find them [here](https://github.com/jorgerodrigar/IA).
 
 ### Other projects
-I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.     
-<p align="center">
-<img width="326" height="241" src="images/pacman.png">
-</p>     
+I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.    
 
 ---
 
