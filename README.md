@@ -1,3 +1,5 @@
+<img align="left" width="100" height="100" src="images/FotoGraduacion.jpg">
+
 ## About me
 
 I got my degree in Grado en Desarrollo de Videojuegos in Facultad de Informática of Universidad Complutense de Madrid in 2020, and throughout my years of student I participated in many different projects of different sizes and collaborators, experiencing and learning about several roles and disciplines. However, my favourite role is programming and I love solving problems and make ideas come true by coding.     
