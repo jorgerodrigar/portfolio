@@ -17,6 +17,7 @@ This project has been programmed in C++ using Visual Studio.
 <img width="280" height="241" src="images/tfg1.png">
 <img width="438" height="241" src="images/tfg2.png">
 </p>   
+
 You can find the TFG project [here](https://github.com/jorgerodrigar/TFG-Repo).
 
 ### Holy Spoons - 2019
@@ -29,6 +30,7 @@ This project has been programmed in C++ using Visual Studio.
 <img width="300" height="147" src="images/holyspoons2.png">
 <img width="300" height="147" src="images/holyspoons3.png">
 </p>     
+
 You can find the Holy Spoons project [here](https://dimateos.github.io/Holy_Spoons/).
 
 ### Moonace - 2018
@@ -39,12 +41,16 @@ I contributed programming the components-based architecture, gameplay of the gam
 <img width="427" height="241" src="images/moonace1.png">
 <img width="427" height="241" src="images/moonace2.png">
 </p>     
+
 You can find the Moonace project [here](https://bitlegion.itch.io/moonace).
 
 ### Donkey Kong clone - 2017
 It was developed by two people using Phaser and JavaScript, and it’s a clone of the classic videogame Donkey Kong.     
-I contributed in the programming and art assets inclusion.        
+I contributed in the programming and art assets inclusion.       
+<p align="center">
 <img align="center" width="249" height="250" src="images/donkeykong.png">     
+</p>     
+
 You can play it from your browser [here](https://gonzsa04.github.io/DonkeyKong/PVLI/src/) (Preferably Mozilla Firefox).
 
 ### Katharia - 2017
