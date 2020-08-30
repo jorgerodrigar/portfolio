@@ -69,7 +69,7 @@ You can find them [here](https://github.com/jorgerodrigar/IA).
 
 ### Other projects
 I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.
-<img align="center" width="281" height="399" src="images/FotoGraduacion.jpg">     
+<img align="center" width="326" height="241" src="images/pacman.png">     
 
 ---
 
