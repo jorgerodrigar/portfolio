@@ -12,7 +12,7 @@ I’ll leave you here some of the projects I worked on. I usually lean on GitHub
 ### TFG (final dissertation of the degree) - 2020
 This project consists on fractal terrains generation and their implementation via OpenGL and Vulkan graphic APIs. It also combines two different rendering methods, the usual one to visualize 3D models and meshes, and the Ray Marching method to recreate de fractal terrains, both of them developed by render shaders. Mixing these methods and adding some physics, it results on a scene with an object controlled by the player that can explore several terrains created through 3D fractals.     
 I made this project with two classmates, and I contributed programming the OpenGL and Vulkan versions of the application, just as the suitable coexistence between them. I also worked on programming the shaders, the physics and introducing the 3D models.     
-This project has been programmed in C++ using Visual Studio.     
+This project has been programmed in C++ using Visual Studio     
 <p align="center">
 <img width="205" height="176" src="images/tfg1.png">
 <img width="320" height="176" src="images/tfg2.png">
