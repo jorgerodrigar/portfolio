@@ -81,15 +81,7 @@ I made several AI projects with C# in Unity and using its navigation meshes, pat
 You can find them [here](https://github.com/jorgerodrigar/IA).
 
 ### Other projects
-I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.    
-
----
-
-## Current projects
-I am currently taking a professional Unreal Engine 4 course at Udemy Academy and developing a 3D videogame on it. I am also planning to do small games for Android and IOs.     
-<p align="center">
-<img width="460" height="243" src="images/unreal.png">
-</p>     
+I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.     
 
 ---
 
