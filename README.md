@@ -83,18 +83,18 @@ You can find them [here](https://github.com/jorgerodrigar/IA).
 
 ---
  
- ## Unreal Engine projects
- I have several small projects using Unreal Engine 4 that I used to learn how to use the engine. They always mixed blueprints and C++ to have simple gameplay mechanics that allow me to learn the basics 
- <p align="center">
- <img width="460" height="243" src="images/unreal.png">
- </p>   
+### Unreal Engine projects
+I have several small projects using Unreal Engine 4 that I used to learn how to use the engine. They always mixed blueprints and C++ to have simple gameplay mechanics that allow me to learn the basics 
+<p align="center">
+<img width="460" height="243" src="images/unreal.png">
+</p>   
 
 ### Other projects
 I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.     
 
 ---
 
-## Contact me
+### Contact me
 
 [GitHub](https://github.com/jorgerodrigar)   
 [LinkedIn](https://www.linkedin.com/in/jorge-rodriguez-garcia-6b031217a/)   
