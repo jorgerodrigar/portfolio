@@ -80,7 +80,6 @@ You can find it [here](https://github.com/jorgerodrigar/Sistema-de-Integracion-C
 I made several AI projects with C# in Unity and using its navigation meshes, path finding algorithms and other methodologies. Some of these projects are AIs that play between them at a Cluedo videogame or at a football simulator videogame.     
 You can find them [here](https://github.com/jorgerodrigar/IA).
 
-
 ---
  
 ### Unreal Engine projects
@@ -94,7 +93,7 @@ I also made several projects such as a dynamic music engine in Unity to add soun
 
 ---
 
-### Contact me
+## Contact me
 
 [GitHub](https://github.com/jorgerodrigar)   
 [LinkedIn](https://www.linkedin.com/in/jorge-rodriguez-garcia-6b031217a/)   
