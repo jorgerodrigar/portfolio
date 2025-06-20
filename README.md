@@ -31,7 +31,7 @@ This project has been programmed in C++ using Visual Studio.
 <img width="300" height="147" src="images/holyspoons3.png">
 </p>     
 
-You can find the Holy Spoons project [here](https://dimateos.github.io/Holy_Spoons/).
+You can find the Holy Spoons project [here](https://github.com/jorgerodrigar/Holy_Spoons).
 
 ### Moonace - 2018
 Moonace is a 2D graphic adventure videogame based on a cyberpunk future in which the player is a homicide detective and must resolve several crimes.     
