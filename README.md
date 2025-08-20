@@ -1,7 +1,6 @@
 ## About me
 
-<div style="background-color: #1e1e1e; color: white; padding: 10; border-radius: 5;">
-  <p><img align="left" width="152" height="210" src="images/profilePhoto_1.jpg" style="margin-right:20;"/>
+<img align="left" width="152" height="210" src="images/profilePhoto_1.jpg" style="margin-right:20;"/>
 
 I got my degree in Desarrollo de Videojuegos in Facultad de Informática of Universidad Complutense de Madrid in 2020. My studies gave me a very good basis in object oriented programming with C++, and I've been working in the videogame industry since then as C++ programmer.
 In addition to this, throughout the years I have also participated in many different projects of different sizes and collaborators, experiencing and learning about several roles and disciplines. I’ll leave you here some of the projects I worked on, but I usually lean on GitHub to organize my work and develop smaller projects, so feel free to have a look to most of them in my account [here](https://github.com/jorgerodrigar)!
@@ -106,5 +105,4 @@ I also made several projects such as a dynamic music engine in Unity to add soun
 
 [GitHub](https://github.com/jorgerodrigar)   
 [LinkedIn](https://www.linkedin.com/in/jorge-rodriguez-garcia-6b031217a/)   
-Correo: jorgerodrigar2703@gmail.com   </p>
-</div>
+Correo: jorgerodrigar2703@gmail.com   
