@@ -14,10 +14,11 @@ Project developed in Unreal 5 with the goal of expanding my experience with GAS.
 Although I already have professional experience with this framework, my intention is to get even more familiar with all its possibilities and best practices, since I love creating complex gameplay mechanics based on combinable states where timing plays a key role, and GAS is currently one of the most widely used technologies for that.
 
 The project is a prototype built from scratch starting with a completely blank C++ project, where I developed everything in code: from a small extensible custom engine to support other types of projects within Unreal, to the class hierarchy for the characters, the AIs, GAS integration, the creation of character animation blueprints for locomotion, UI, asset integration, and more.
-
-It is a third-person shooter featuring bullet-blocking mechanics, weapon switching, and melee attacks inspired by the action scenes of the John Wick saga, leveraging every detail and turning it into a mechanic that makes the most out of the GAS system. The project is still under development and I keep working on it, but I’m very happy with what I’ve achieved so far and everything I’ve learned in the process. I can’t wait to show it in motion once it’s finished and polished.
 <p align="center">
 <img width="554" height="319" src="images/JW_1.PNG">
+</p>
+It is a third-person shooter featuring bullet-blocking mechanics, weapon switching, and melee attacks inspired by the action scenes of the John Wick saga, leveraging every detail and turning it into a mechanic that makes the most out of the GAS system. The project is still under development and I keep working on it, but I’m very happy with what I’ve achieved so far and everything I’ve learned in the process. I can’t wait to show it in motion once it’s finished and polished.
+<p align="center">
 <img width="345" height="319" src="images/JW_4.PNG">
 </p> 
 
