@@ -17,8 +17,8 @@ The project is a prototype built from scratch starting with a completely blank C
 
 It is a third-person shooter featuring bullet-blocking mechanics, weapon switching, and melee attacks inspired by the action scenes of the John Wick saga, leveraging every detail and turning it into a mechanic that makes the most out of the GAS system. The project is still under development and I keep working on it, but I’m very happy with what I’ve achieved so far and everything I’ve learned in the process. I can’t wait to show it in motion once it’s finished and polished.
 <p align="center">
-<img width="462" height="266" src="images/JW_1.PNG">
-<img width="462" height="427" src="images/JW_4.PNG">
+<img width="554" height="319" src="images/JW_1.PNG">
+<img width="345" height="319" src="images/JW_4.PNG">
 </p> 
 
 ### First Unreal Engine projects - 2020
