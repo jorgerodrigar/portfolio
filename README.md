@@ -5,6 +5,8 @@
 I got my degree in Desarrollo de Videojuegos in Facultad de Informática of Universidad Complutense de Madrid in 2020. My studies gave me a very good basis in object oriented programming with C++, and I've been working in the videogame industry since then as C++ programmer.
 In addition to this, throughout the years I have also participated in many different projects of different sizes and collaborators, experiencing and learning about several roles and disciplines. I’ll leave you here some of the projects I worked on, but I usually lean on GitHub to organize my work and develop smaller projects, so feel free to have a look to most of them in my account [here](https://github.com/jorgerodrigar)!
 
+<div style="clear: both;"></div>
+
 ---
 
 ## Projects
