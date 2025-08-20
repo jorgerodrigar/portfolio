@@ -9,6 +9,20 @@ In addition to this, throughout the years I have also participated in many diffe
 
 ## Projects
 
+### MAD Project - 2025 (in progress)
+Project developed in Unreal 5 with the goal of expanding my experience with GAS.
+Although I already have professional experience with this framework, my intention is to get even more familiar with all its possibilities and best practices, since I love creating complex gameplay mechanics based on combinable states where timing plays a key role, and GAS is currently one of the most widely used technologies for that.
+
+The project is a prototype built from scratch starting with a completely blank C++ project, where I developed everything in code: from a small extensible custom engine to support other types of projects within Unreal, to the class hierarchy for the characters, the AIs, GAS integration, the creation of character animation blueprints for locomotion, UI, asset integration, and more.
+
+It is a third-person shooter featuring bullet-blocking mechanics, weapon switching, and melee attacks inspired by the action scenes of the John Wick saga, leveraging every detail and turning it into a mechanic that makes the most out of the GAS system. The project is still under development and I keep working on it, but I’m very happy with what I’ve achieved so far and everything I’ve learned in the process. I can’t wait to show it in motion once it’s finished and polished.
+
+### First Unreal Engine projects - 2020
+I have several small projects using Unreal Engine 4 that I used to learn how to use the engine. They always mixed blueprints and C++ to have simple gameplay mechanics that allow me to learn the basics 
+<p align="center">
+<img width="460" height="243" src="images/unreal.png">
+</p>   
+
 ### TFG (final dissertation of the degree) - 2020
 This project consists on fractal terrains generation and their implementation via OpenGL and Vulkan graphic APIs. It also combines two different rendering methods, the usual one to visualize 3D models and meshes, and the Ray Marching method to recreate de fractal terrains, both of them developed by render shaders. Mixing these methods and adding some physics, it results on a scene with an object controlled by the player that can explore several terrains created through 3D fractals.     
 I made this project with two classmates, and I contributed programming the OpenGL and Vulkan versions of the application, just as the suitable coexistence between them. I also worked on programming the shaders, the physics and introducing the 3D models.     
@@ -81,12 +95,6 @@ I made several AI projects with C# in Unity and using its navigation meshes, pat
 You can find them [here](https://github.com/jorgerodrigar/IA).
 
 ---
- 
-### Unreal Engine projects
-I have several small projects using Unreal Engine 4 that I used to learn how to use the engine. They always mixed blueprints and C++ to have simple gameplay mechanics that allow me to learn the basics 
-<p align="center">
-<img width="460" height="243" src="images/unreal.png">
-</p>   
 
 ### Other projects
 I also made several projects such as a dynamic music engine in Unity to add soundtracks to videogames, an artificial image recognition via machine learning methods, 3D character animations and modelling, and realistic physics simulations.     
