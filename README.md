@@ -1,4 +1,4 @@
-<img align="left" width="162" height="230" src="images/FotoGraduacion.jpg">
+<img align="left" width="162" height="230" src="images/profilePhoto_1.jpg">
 
 ## About me
 
