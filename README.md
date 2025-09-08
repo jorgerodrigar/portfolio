@@ -24,7 +24,7 @@ It is a third-person shooter featuring bullet-blocking mechanics, weapon switchi
 
 ### ARPG style project - 2025 (in progress)
 A top-down ARPG developed in Unreal Engine 5, reusing the custom framework I built for the third-person shooter MAD Project. It is also set up from scratch as a C++ project and reuses the generic plugin I created for my previous work to build a completely different game, also using GAS.
-For now, it is just a prototype that I am developing alongside MAD Project, featuring a player character with top-down camera movement, simple enemies to defeat, and abilities and weapons that modify character stats, all following the style of the ARPG genre.
+For now, it is just a prototype in order to test the versatility of my plugin/mini-engine for developing entirely different projects with GAS, featuring a player character with top-down camera movement, simple enemies to defeat, and abilities and weapons that modify character stats, all following the style of the ARPG genre.
 
 ### First Unreal Engine projects - 2020
 I have several small projects using Unreal Engine 4 that I used to learn how to use the engine. They always mixed blueprints and C++ to have simple gameplay mechanics that allow me to learn the basics 
