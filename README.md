@@ -66,8 +66,8 @@ Moonace is a 2D graphic adventure videogame based on a cyberpunk future in which
 This project was made by 8 people and programmed in C++ using a structure based on components as Unity does. SDL was used as graphic library, and it also has a data-oriented structure, which means that the game scenes and levels can be configured from external json files and don’t need to introduce new code.     
 I contributed programming the components-based architecture, gameplay of the game like the point and click movement mechanic using the A* algorithm, the sound engine and several art assets.     
 <p align="center">
-<img width="300" height="169" src="images/moonace1.png">
-<img width="300" height="169" src="images/moonace2.png">
+<img width="472" height="266" src="images/moonace1.png">
+<img width="472" height="266" src="images/moonace2.png">
 </p>     
 
 You can find the Moonace project [here](https://bitlegion.itch.io/moonace).
