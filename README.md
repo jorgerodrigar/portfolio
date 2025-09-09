@@ -120,6 +120,6 @@ I also made several projects such as a dynamic music engine in Unity to add soun
 
 ## Contact me
 
-[GitHub](https://github.com/jorgerodrigar)   
 [LinkedIn](https://www.linkedin.com/in/jorge-rodriguez-garcia-6b031217a/)   
-Correo: jorgerodrigar2703@gmail.com   
+[GitHub](https://github.com/jorgerodrigar)   
+e-mail: jorgerodrigar2703@gmail.com   
