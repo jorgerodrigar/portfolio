@@ -14,20 +14,23 @@ Project developed in Unreal 5 with the goal of expanding my experience with GAS.
 Although I already have professional experience with this framework, my intention is to get even more familiar with all its possibilities and best practices, since I love creating complex gameplay mechanics based on combinable states where timing plays a key role, and GAS is currently one of the most widely used technologies for that.
 
 The project is a prototype built from scratch starting with a completely blank C++ project, where I developed everything in code: from a small extensible custom engine to support other types of projects within Unreal, to the class hierarchy for the characters, the AIs, GAS integration, the creation of character animation blueprints for locomotion, UI, asset integration, and more.
-
-It is a third-person shooter featuring bullet-blocking mechanics, weapon switching, and melee attacks inspired by the action scenes of the John Wick saga, leveraging every detail and turning it into a mechanic that makes the most out of the GAS system. The project is still under development and I keep working on it, but I’m very happy with what I’ve achieved so far and everything I’ve learned in the process. I can’t wait to show it in motion once it’s finished and polished. 
-
 <p align="center">
 <img width="554" height="319" src="images/JW_1.PNG">
+</p>
+
+It is a third-person shooter featuring bullet-blocking mechanics, weapon switching, and melee attacks inspired by the action scenes of the John Wick saga, leveraging every detail and turning it into a mechanic that makes the most out of the GAS system. The project is still under development and I keep working on it, but I’m very happy with what I’ve achieved so far and everything I’ve learned in the process. I can’t wait to show it in motion once it’s finished and polished. 
+<p align="center">
 <img width="345" height="319" src="images/JW_4.PNG">
 </p>
 
 ### ARPG style project - 2025 (in progress)
 A top-down ARPG developed in Unreal Engine 5, reusing the custom framework I built for the third-person shooter MAD Project. It is also set up from scratch as a C++ project and reuses the generic plugin I created for my previous work to build a completely different game, also using GAS.
+<p align="center">
+<img width="500" height="266" src="images/ARPG_1.png">
+</p>
 
 For now, it is just a prototype in order to test the versatility of my plugin/mini-engine for developing entirely different projects with GAS, featuring a player character with top-down camera movement, simple enemies to defeat, and abilities and weapons that modify character stats, all following the style of the ARPG genre.
 <p align="center">
-<img width="500" height="266" src="images/ARPG_1.png">
 <img width="500" height="266" src="images/ARPG_2.png">
 </p>
 
@@ -42,8 +45,8 @@ This project consists on fractal terrains generation and their implementation vi
 I made this project with two classmates, and I contributed programming the OpenGL and Vulkan versions of the application, just as the suitable coexistence between them. I also worked on programming the shaders, the physics and introducing the 3D models.     
 This project has been programmed in C++ using Visual Studio.     
 <p align="center">
-<img width="291" height="250" src="images/tfg.png">
-<img width="454" height="250" src="images/tfg2.png">
+<img width="205" height="176" src="images/tfg.png">
+<img width="320" height="176" src="images/tfg2.png">
 </p>   
 
 You can find the TFG project [here](https://github.com/jorgerodrigar/TFG-Repo).
@@ -54,9 +57,9 @@ The main point of this project was to create a videogame engine which allowed to
 I contributed implementing the sound engine, the data-oriented structure, programming the components-based architecture of the engine and the gameplay of the game, such as designing its gameflow and similar issues.     
 This project has been programmed in C++ using Visual Studio.   
 <p align="center">
-<img width="330" height="162" src="images/holyspoons1.png">
-<img width="330" height="162" src="images/holyspoons2.png">
-<img width="330" height="162" src="images/holyspoons3.png">
+<img width="300" height="147" src="images/holyspoons1.png">
+<img width="300" height="147" src="images/holyspoons2.png">
+<img width="300" height="147" src="images/holyspoons3.png">
 </p>     
 
 You can find the Holy Spoons project [here](https://github.com/jorgerodrigar/Holy_Spoons).
@@ -66,8 +69,8 @@ Moonace is a 2D graphic adventure videogame based on a cyberpunk future in which
 This project was made by 8 people and programmed in C++ using a structure based on components as Unity does. SDL was used as graphic library, and it also has a data-oriented structure, which means that the game scenes and levels can be configured from external json files and don’t need to introduce new code.     
 I contributed programming the components-based architecture, gameplay of the game like the point and click movement mechanic using the A* algorithm, the sound engine and several art assets.     
 <p align="center">
-<img width="500" height="282" src="images/moonace1.png">
-<img width="500" height="282" src="images/moonace2.png">
+<img width="300" height="169" src="images/moonace1.png">
+<img width="300" height="169" src="images/moonace2.png">
 </p>     
 
 You can find the Moonace project [here](https://bitlegion.itch.io/moonace).
