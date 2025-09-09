@@ -54,9 +54,9 @@ The main point of this project was to create a videogame engine which allowed to
 I contributed implementing the sound engine, the data-oriented structure, programming the components-based architecture of the engine and the gameplay of the game, such as designing its gameflow and similar issues.     
 This project has been programmed in C++ using Visual Studio.   
 <p align="center">
-<img width="300" height="147" src="images/holyspoons1.png">
-<img width="300" height="147" src="images/holyspoons2.png">
-<img width="300" height="147" src="images/holyspoons3.png">
+<img width="330" height="162" src="images/holyspoons1.png">
+<img width="330" height="162" src="images/holyspoons2.png">
+<img width="330" height="162" src="images/holyspoons3.png">
 </p>     
 
 You can find the Holy Spoons project [here](https://github.com/jorgerodrigar/Holy_Spoons).
@@ -66,8 +66,8 @@ Moonace is a 2D graphic adventure videogame based on a cyberpunk future in which
 This project was made by 8 people and programmed in C++ using a structure based on components as Unity does. SDL was used as graphic library, and it also has a data-oriented structure, which means that the game scenes and levels can be configured from external json files and don’t need to introduce new code.     
 I contributed programming the components-based architecture, gameplay of the game like the point and click movement mechanic using the A* algorithm, the sound engine and several art assets.     
 <p align="center">
-<img width="472" height="266" src="images/moonace1.png">
-<img width="472" height="266" src="images/moonace2.png">
+<img width="500" height="282" src="images/moonace1.png">
+<img width="500" height="282" src="images/moonace2.png">
 </p>     
 
 You can find the Moonace project [here](https://bitlegion.itch.io/moonace).
